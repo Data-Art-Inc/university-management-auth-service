@@ -4,8 +4,15 @@ import config from './config/index'
 import { logger, errorLogger } from './shared/logger'
 import { Server } from 'http'
 
+process.on('uncaughtException', err => {
+  errorLogger.error(err)
+  console.log(`Uncaught exception detected...`)
+  process.exit(1)
+})
+
+let server: Server
+
 async function bootstrap() {
-  let server: Server
   try {
     await mongoose.connect(config.database_url as string)
     logger.info(`🟢 Database is connected successfully!`)
@@ -31,3 +38,12 @@ async function bootstrap() {
 }
 
 bootstrap()
+
+process.on('SIGTERM', () => {
+  logger.info('SIGTERM is received')
+  if(server) {
+    server.close()
+  }
+})
+
+

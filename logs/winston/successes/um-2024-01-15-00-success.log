@@ -1030,3 +1030,15 @@
   label: 'University Management',
   timestamp: '2024-01-14T18:53:12.106Z'
 }
+{
+  message: '🟢 Database is connected successfully!',
+  level: 'info',
+  label: 'University Management',
+  timestamp: '2024-01-14T18:53:17.161Z'
+}
+{
+  message: 'Application listening on port 5000',
+  level: 'info',
+  label: 'University Management',
+  timestamp: '2024-01-14T18:53:17.170Z'
+}
