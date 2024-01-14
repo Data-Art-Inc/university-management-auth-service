@@ -39,6 +39,11 @@
             "date": 1705255213878,
             "name": "D:\\CodingRoute_\\NextLevelDevelopment\\university-management-auth-service\\logs\\winston\\successes\\um-2024-01-15-00-success.log",
             "hash": "f4e56450c47ce409af6613a0ebd0b1d342846c10b8be1387ef14eec6a6597b04"
+        },
+        {
+            "date": 1705259938175,
+            "name": "D:\\CodingRoute_\\NextLevelDevelopment\\university-management-auth-service\\logs\\winston\\successes\\um-2024-01-15-01-success.log",
+            "hash": "f9e8081b84bdd70ab6332db88ce844df6cfa80584426acb81016b387fdb05916"
         }
     ],
     "hashType": "sha256"
