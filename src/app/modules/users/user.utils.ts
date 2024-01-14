@@ -1,6 +1,6 @@
-import { User } from './users.model'
+import { User } from './user.model'
 
-let lastUserId = 0
+// let lastUserId = 0
 
 const findLastUserId = async () => {
   const lastUser = await User.findOne({}, { id: 1, _id: 0 })
