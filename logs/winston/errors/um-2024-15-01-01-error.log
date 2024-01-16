@@ -1,6 +1,0 @@
-{
-  message: 'failed to connect database: ReferenceError: server is not defined',
-  level: 'error',
-  label: 'University Management',
-  timestamp: '2024-01-14T19:22:13.236Z'
-}
