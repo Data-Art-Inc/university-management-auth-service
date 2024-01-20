@@ -1,0 +1,106 @@
+{
+  stringValue: '"65aaf3657b6865aa9"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '65aaf3657b6865aa9',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\bson\src\objectid.ts:80:15)
+      at castObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schema\objectId.js:248:12)
+      at SchemaObjectId.SchemaType.applySetters (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1219:12)
+      at SchemaObjectId.SchemaType.castForQuery (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1634:17)
+      at cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast.js:375:32)
+      at model.Query.Query.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4746:12)
+      at model.Query.Query._castConditions (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2200:10)
+      at model.Query._findOne (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2484:8)
+      at model.Query.exec (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4290:80),
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'University Management',
+  timestamp: '2024-01-20T00:14:50.141Z'
+}
+{
+  stringValue: '"65aaf3657b6865aa9"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '65aaf3657b6865aa9',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\bson\src\objectid.ts:80:15)
+      at castObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schema\objectId.js:248:12)
+      at SchemaObjectId.SchemaType.applySetters (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1219:12)
+      at SchemaObjectId.SchemaType.castForQuery (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1634:17)
+      at cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast.js:375:32)
+      at model.Query.Query.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4746:12)
+      at model.Query.Query._castConditions (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2200:10)
+      at model.Query._findOne (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2484:8)
+      at model.Query.exec (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4290:80),
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'University Management',
+  timestamp: '2024-01-20T00:16:43.281Z'
+}
+{
+  stringValue: '"65aaf3657b6865aa9"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '65aaf3657b6865aa9',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\bson\src\objectid.ts:80:15)
+      at castObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schema\objectId.js:248:12)
+      at SchemaObjectId.SchemaType.applySetters (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1219:12)
+      at SchemaObjectId.SchemaType.castForQuery (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1634:17)
+      at cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast.js:375:32)
+      at model.Query.Query.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4746:12)
+      at model.Query.Query._castConditions (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2200:10)
+      at model.Query._findOne (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2484:8)
+      at model.Query.exec (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4290:80),
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'University Management',
+  timestamp: '2024-01-20T00:17:25.904Z'
+}
+{
+  stringValue: '"65aaf3657b6865aa9"',
+  messageFormat: undefined,
+  kind: 'ObjectId',
+  value: '65aaf3657b6865aa9',
+  path: '_id',
+  reason: BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+      at new ObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\bson\src\objectid.ts:80:15)
+      at castObjectId (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast\objectid.js:25:12)
+      at SchemaObjectId.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schema\objectId.js:248:12)
+      at SchemaObjectId.SchemaType.applySetters (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1219:12)
+      at SchemaObjectId.SchemaType.castForQuery (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\schemaType.js:1634:17)
+      at cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\cast.js:375:32)
+      at model.Query.Query.cast (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4746:12)
+      at model.Query.Query._castConditions (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2200:10)
+      at model.Query._findOne (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:2484:8)
+      at model.Query.exec (D:\CodingRoute_\NextLevelDevelopment\university-management-auth-service\node_modules\mongoose\lib\query.js:4290:80),
+  valueType: 'string',
+  model: Model { AcademicSemester },
+  level: 'error',
+  label: 'University Management',
+  timestamp: '2024-01-20T00:25:30.719Z'
+}
+Sat Jan 20 2024 6 : 41 : 0}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 41 : 36}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 44 : 20}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 50 : 18}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 52 : 53}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 54 : 42}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 6 : 55 : 17}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"

@@ -6,11 +6,10 @@ import { Server } from 'http'
 
 process.on('uncaughtException', err => {
   errorLogger.error(err)
-  console.log(`Uncaught exception detected...`)
   process.exit(1)
-})
+});
 
-let server: Server
+let server: Server;
 
 async function bootstrap() {
   try {
@@ -37,7 +36,7 @@ async function bootstrap() {
   })
 }
 
-bootstrap()
+bootstrap();
 
 process.on('SIGTERM', () => {
   logger.info('SIGTERM is received')
