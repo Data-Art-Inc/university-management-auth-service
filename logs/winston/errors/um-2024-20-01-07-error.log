@@ -1,0 +1,12 @@
+Sat Jan 20 2024 7 : 7 : 19}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 7 : 8 : 14}
+   [University Management] error: Cast to ObjectId failed for value "65aaf3657b6865aa9" (type string) at path "_id" for model "AcademicSemester"
+Sat Jan 20 2024 7 : 9 : 28}
+   [University Management] error: Academic Semester already exists!
+Sat Jan 20 2024 7 : 11 : 51}
+   [University Management] error: Academic Semester already exists!
+Sat Jan 20 2024 7 : 22 : 36}
+   [University Management] error: Academic Semester already exists!
+Sat Jan 20 2024 7 : 35 : 53}
+   [University Management] error: Academic Semester already exists!
